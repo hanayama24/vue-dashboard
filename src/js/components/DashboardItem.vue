@@ -5,6 +5,8 @@
             <cell-item></cell-item>
             <cell-item></cell-item>
             <cell-item></cell-item>
+            <cell-item></cell-item>
+            <cell-item></cell-item>
         </div>        
     </div>
 </template>
@@ -23,7 +25,7 @@ export default {
 <style>
     .vue-dashboard {
         background-color: #edeff5;
-        height: calc(100vh - 7.2rem);
+        min-height: calc(100vh - 7.2rem);
     }
     .vue-dashboard__title {
         color: #2f323a;

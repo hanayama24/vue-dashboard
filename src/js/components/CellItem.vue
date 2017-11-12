@@ -74,7 +74,7 @@ export default {
     }
 
     .vue-cell.resize {
-        flex-basis: 60vw;
+        flex-basis: 62.6vw;
     }
 
     .vue-cell__content {
